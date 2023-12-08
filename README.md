@@ -1,2 +1,0 @@
-# selectionSortOdev
-java selection sort 
